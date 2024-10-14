@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#home{
+	padding: 200px 0px 200px 400px;
+}
+.board_read_page{
+}
+.uploadList{
+	width:100%;
+}
+	
+.uploadList li{
+	float:left;
+	padding:20px;
+	list-style:none;
+}

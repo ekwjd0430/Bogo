@@ -1,0 +1,63 @@
+@charset "UTF-8";
+#home{
+   padding-top: 200px;
+   margin-left: 280px;
+   height: 100%;
+   width: 100%;
+}
+.job-div{
+   margin-bottom: 200px;
+}
+#home p{
+   margin-top:5px;
+   font-size:16px;
+}
+.job-div table{
+   text-align: center;
+   border-spacing: 10px;
+   border-top: 2px solid black;
+}
+.job-div td input,textarea {
+   border: none;
+   height: 100%;
+   width: 100%;
+   text-align: left;
+   border-bottom: 1px solid lightgray;
+}
+.category-border-right {
+   border-right: 1px solid gray;
+}
+#container-btn {
+   border-top: 2px solid black;
+   display: flex;
+   justify-content: flex-end;
+}
+#btn-submit {
+   border: 1px solid lightgray;
+   border-radius: 3px;
+   background-color: lightgrey;
+   color: white;
+   width: 25%;
+   height: 3%;
+   margin-top: 1%;
+   text-align: center;
+}
+#container-img {
+   height: 90%;
+   width: 100%;
+   border: 1px solid lightgray
+}
+#container-img-btn {
+   height: 10%;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: end;
+}
+#btn-img {
+   border: 1px solid lightgray;
+   border-radius: 3px;
+   background-color: lightgray;
+   color:white;
+   text-align: center;
+}

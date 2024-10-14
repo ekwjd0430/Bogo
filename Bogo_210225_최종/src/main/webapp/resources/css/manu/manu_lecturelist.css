@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+#home{
+	height:100%;
+	padding-top:200px;
+	padding-left:50px;
+}
+.lecture_contents{
+	width:250px;
+	/* border:1px solid black; */
+}
+.lecturelist_img{
+	margin:0px;
+	width: 250px;
+    height: 337px;
+	/* border:1px solid black; */
+}
+.lecture_div{
+	position:absolute;
+	width: 600px;
+	height: 300px;
+	margin-bottom:337px;
+	margin-top: -310px;
+	margin-left:290px;
+	/* border:1px solid black; */
+}
+.lecturelist_table_div{
+	margin-top:80px;
+	margin-left:30px;
+
+}
+.lecturelist_table{
+	text-align:center;
+	margin-top:40px;
+	padding-bottom:80px;
+}
+.uploadBtn input{
+	font-size:17px;
+	width:70px;
+	height:40px;
+	background-color:lightsteelblue;
+	border:0px;
+}
+.downloadBtn input{
+	font-size:14px;
+	width:70px;
+	height:40px;
+	background-color:lightsteelblue;
+	border:0px;
+}
+
+.lecturelist_table th,td{
+	border-bottom:1px solid black;
+	height:50px;
+}
+.lecturelist_table th{
+	width: 40px;
+}
+.lecturelist_table td{
+	width: 730px;
+}
+.lecturelist_table td:nth-child(3){
+	width: 70px;
+}
+.making_div{
+	height:400px;
+}
+.making_div h3{
+	padding-top:100px;
+	text-align:center;
+}

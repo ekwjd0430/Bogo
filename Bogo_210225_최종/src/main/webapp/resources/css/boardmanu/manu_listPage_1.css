@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.board-manu{
+	padding-top:150px;
+}
+.board-div{
+	margin-left:200px;
+	margin-bottom: 200px;
+}
+.board-div h1{
+	margin-left:300px;
+    
+}
+.bored-search{
+	margin: 110px 50px 20px 290px;
+}
+.bored-top{
+	margin-left:100px;
+}
+
+.board-list{
+	margin-left: 350px;
+}
+.Tboard{
+	text-align:center;
+	width:730px;
+}
+.Tboard td{
+     border-bottom: 1px solid #000;
+     padding:5px 10px;
+}
+.paging-list{
+	margin:10px 0px 0px 300px;
+}
+
+

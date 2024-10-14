@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+#home{
+	height:100%;
+}
+
+#doc{
+	margin:0px;
+	padding:200px 80px 0px 80px;
+}
+#doc h1{
+	margin-bottom:110px;
+}
+#doc #title{
+	text-align: center;
+}
+
+#doc #thank{
+	padding-left:10px;
+	color: blue;
+}
+#doc p{
+}
+
+#doc img{
+    margin-left:590px;
+    padding:0px;
+	width:400px;
+}

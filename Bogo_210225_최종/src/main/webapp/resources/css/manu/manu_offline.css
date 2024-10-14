@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#offline{
+	margin:0px;
+	padding-top:105px;
+}
+#offline img{
+	width: 960px;
+    height: 530px;
+}
+
+#kakao-map-api{
+	padding-left:100px;
+	padding-top:200px;
+    margin-bottom:50px;
+}

@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+.home{
+	padding-top:180px;
+	padding-left:200px;
+}
+.home h1{
+	margin-left:300px;
+	margin-bottom:50px;
+}
+#regForm td{
+	font-size:22px;
+}
+hr{
+	width:780px;
+	margin-bottom:50px;
+}
+
+.reg_text{
+	
+	width:780px;
+	height:50px;
+	font-size:20px;
+	margin-bottom:10px;
+}
+.reg_textarea{
+	padding:10px;
+	width:760px;
+	height:300px;
+	resize:none;
+	font-size:14px;
+}
+.fileDrop{
+	margin-top:10px;
+	width:780px;
+	height:150px;
+	border:1px solid gray;
+	background-color:lightgray;
+}
+
+
+#saveBtn{
+	margin-top:10px;
+	margin-left:680px;
+	width:100px;
+	height:30px;
+	color:white;
+	background-color: coral;
+	font-size:18px;
+	border:0px;
+}
+.uploadList{
+	widht:100%;
+	margin-bottom:150px;
+}
+	
+.uploadList li{
+	float:left;
+	padding:10px;
+	list-style:none;		
+}
